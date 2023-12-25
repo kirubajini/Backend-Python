@@ -1,0 +1,99 @@
+2023-10-24 14:16:01,259 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-24 14:16:01,259 - [33mPress CTRL+C to quit[0m
+2023-10-24 14:16:01,262 -  * Restarting with stat
+2023-10-24 14:16:01,830 -  * Debugger is active!
+2023-10-24 14:16:01,846 -  * Debugger PIN: 969-230-166
+2023-10-24 14:16:35,805 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-24 14:16:35,807 - [33mPress CTRL+C to quit[0m
+2023-10-24 14:16:35,809 -  * Restarting with stat
+2023-10-24 14:16:36,516 -  * Debugger is active!
+2023-10-24 14:16:36,524 -  * Debugger PIN: 969-230-166
+2023-10-24 14:17:05,627 -  * Detected change in 'C:\\Users\\HOME\\PycharmProjects\\pythonProject1\\firebase_db_connection\\resetpassword.py', reloading
+2023-10-24 14:17:05,732 -  * Restarting with stat
+2023-10-24 14:17:06,555 -  * Debugger is active!
+2023-10-24 14:17:06,559 -  * Debugger PIN: 969-230-166
+2023-10-24 14:17:51,033 - Email sent successfully.
+2023-10-24 14:17:51,063 - 127.0.0.1 - - [24/Oct/2023 14:17:51] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2023-10-24 14:20:27,901 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-24 14:20:27,901 - [33mPress CTRL+C to quit[0m
+2023-10-24 14:20:27,902 -  * Restarting with stat
+2023-10-24 14:20:28,516 -  * Debugger is active!
+2023-10-24 14:20:28,522 -  * Debugger PIN: 969-230-166
+2023-10-24 14:20:41,162 - Email sent successfully.
+2023-10-24 14:20:41,172 - 127.0.0.1 - - [24/Oct/2023 14:20:41] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2023-10-24 14:23:46,610 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-24 14:23:46,610 - [33mPress CTRL+C to quit[0m
+2023-10-24 14:23:46,611 -  * Restarting with stat
+2023-10-24 14:23:47,226 -  * Debugger is active!
+2023-10-24 14:23:47,233 -  * Debugger PIN: 969-230-166
+2023-10-24 14:23:54,896 - Email sent successfully.
+2023-10-24 14:23:54,906 - 127.0.0.1 - - [24/Oct/2023 14:23:54] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2023-10-24 14:24:29,392 - 127.0.0.1 - - [24/Oct/2023 14:24:29] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2023-10-24 14:29:44,853 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-24 14:29:44,854 - [33mPress CTRL+C to quit[0m
+2023-10-24 14:29:44,856 -  * Restarting with stat
+2023-10-24 14:29:45,450 -  * Debugger is active!
+2023-10-24 14:29:45,454 -  * Debugger PIN: 969-230-166
+2023-10-24 14:29:52,870 - 127.0.0.1 - - [24/Oct/2023 14:29:52] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2023-10-24 14:30:22,620 - Email sent successfully.
+2023-10-24 14:30:22,629 - 127.0.0.1 - - [24/Oct/2023 14:30:22] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2023-10-24 14:34:10,753 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-24 14:34:10,753 - [33mPress CTRL+C to quit[0m
+2023-10-24 14:34:10,754 -  * Restarting with stat
+2023-10-24 14:34:11,441 -  * Debugger is active!
+2023-10-24 14:34:11,449 -  * Debugger PIN: 969-230-166
+2023-10-24 14:34:19,574 - 127.0.0.1 - - [24/Oct/2023 14:34:19] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2023-10-24 14:39:06,358 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-24 14:39:06,358 - [33mPress CTRL+C to quit[0m
+2023-10-24 14:39:06,360 -  * Restarting with stat
+2023-10-24 14:39:07,067 -  * Debugger is active!
+2023-10-24 14:39:07,074 -  * Debugger PIN: 969-230-166
+2023-10-24 14:39:13,649 - 127.0.0.1 - - [24/Oct/2023 14:39:13] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2023-10-24 14:41:37,402 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-24 14:41:37,402 - [33mPress CTRL+C to quit[0m
+2023-10-24 14:41:37,403 -  * Restarting with stat
+2023-10-24 14:41:38,057 -  * Debugger is active!
+2023-10-24 14:41:38,063 -  * Debugger PIN: 969-230-166
+2023-10-24 14:41:58,185 - 127.0.0.1 - - [24/Oct/2023 14:41:58] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2023-10-24 14:43:02,690 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-24 14:43:02,690 - [33mPress CTRL+C to quit[0m
+2023-10-24 14:43:02,692 -  * Restarting with stat
+2023-10-24 14:43:03,270 -  * Debugger is active!
+2023-10-24 14:43:03,276 -  * Debugger PIN: 969-230-166
+2023-10-24 14:44:18,655 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-24 14:44:18,656 - [33mPress CTRL+C to quit[0m
+2023-10-24 14:44:18,656 -  * Restarting with stat
+2023-10-24 14:44:19,221 -  * Debugger is active!
+2023-10-24 14:44:19,225 -  * Debugger PIN: 969-230-166
+2023-10-24 14:44:24,587 - 127.0.0.1 - - [24/Oct/2023 14:44:24] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2023-10-24 14:44:47,339 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-24 14:44:47,340 - [33mPress CTRL+C to quit[0m
+2023-10-24 14:44:47,340 -  * Restarting with stat
+2023-10-24 14:44:47,744 -  * Debugger is active!
+2023-10-24 14:44:47,748 -  * Debugger PIN: 969-230-166
+2023-10-24 14:44:54,188 - 127.0.0.1 - - [24/Oct/2023 14:44:54] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2023-10-24 14:45:33,533 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-24 14:45:33,534 - [33mPress CTRL+C to quit[0m
+2023-10-24 14:45:33,535 -  * Restarting with stat
+2023-10-24 14:45:33,961 -  * Debugger is active!
+2023-10-24 14:45:33,965 -  * Debugger PIN: 969-230-166
+2023-10-24 14:45:38,958 - 127.0.0.1 - - [24/Oct/2023 14:45:38] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2023-10-24 14:47:08,350 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-24 14:47:08,350 - [33mPress CTRL+C to quit[0m
+2023-10-24 14:47:08,351 -  * Restarting with stat
+2023-10-24 14:47:08,765 -  * Debugger is active!
+2023-10-24 14:47:08,769 -  * Debugger PIN: 969-230-166
+2023-10-24 14:47:24,262 - 127.0.0.1 - - [24/Oct/2023 14:47:24] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
